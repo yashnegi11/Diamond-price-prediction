@@ -11,7 +11,6 @@ The project employs various machine learning models, including linear regression
 * [Features](#features)
 * [Model Evaluation](#model-evaluation)
 * [How to Run](#how-to-run)
-* [Project Structure](#project-structure)
 * [Results](#results)
 * [License](#license)
 * [Acknowledgments](#acknowledgments)
